@@ -7,9 +7,9 @@ terraform {
     }
   }
   cloud {
-    organization = "CloudQuickLabs"
+    organization = "emmafoxorg"
     workspaces {
-      name = "AzureLabs"
+      name = "emmapi"
     }
   }
 }
